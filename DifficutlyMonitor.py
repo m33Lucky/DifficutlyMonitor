@@ -18,10 +18,15 @@ host = 'smtp.mail.yahoo.com'
 #host = 'smtp.live.com'
 port = 587
 
-username = "yuenbenny68@yahoo.com"
-password = "#'a]&S[/v3N4gv6{KO"
-fromaddr = "yuenbenny68@yahoo.com"
-toaddrs  = "betgurujackg@gmail.com"
+#username = "xxx@yahoo.com" complete yahoo email address , yahoo only
+#password = "" as your login
+#fromaddr = "" send from
+#toaddrs  = "" send to
+
+username = ""
+password = ""
+fromaddr = ""
+toaddrs  = ""
 
 timeBetweenEmails = 3600 # 1 hour in sec
 
